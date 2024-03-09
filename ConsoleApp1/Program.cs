@@ -5,7 +5,8 @@ class BinarySearch
 {
     static void Main()
     {
-        
+        Console.WriteLine("Привет мир");
+        Console.ReadLine();
     }
 
    
